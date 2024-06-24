@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'dancing';
+    src: url(../font/dancing-variable.woff) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'dancing-bold';
+    src: url(../font/dancing-bold.woff) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    display: swap;
+}

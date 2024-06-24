@@ -1,0 +1,2 @@
+mockapi = https://6678ee4b0bd45250562051e5.mockapi.io/api/datos/nose
+host = 
